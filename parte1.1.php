@@ -23,6 +23,6 @@ switch (orden){
 	if (educ != buscar) {
 		echo "No hago nada";
 	}
-	break;
+	//break;
 }	
 ?>

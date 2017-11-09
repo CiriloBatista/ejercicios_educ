@@ -43,7 +43,7 @@
 </head>
 <body>
 	
-	<p>Esta es tu lista de Tareas!</p>
+	<!--<p>Esta es tu lista de Tareas!</p>-->
 	<ol id="lista">
 		<li id="item_1">Estudiar JQuery</li>
 		<li id="item_2">Ir con el dentista</li>

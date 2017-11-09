@@ -8,5 +8,6 @@
 	}
 	if ($x < 2) {
 		echo "1 es menor que 0";
+		echo "<br>";
 	}
 ?>
