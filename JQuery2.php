@@ -43,7 +43,11 @@
 </head>
 <body>
 	
+<<<<<<< HEAD
 	<!--<p>Esta es tu lista de Tareas!</p>-->
+=======
+	<p>¡Esta es tu lista de Tareas!</p>
+>>>>>>> f92d4408a05bb1a4c795dcc7fe9642b076b59584
 	<ol id="lista">
 		<li id="item_1">Estudiar JQuery</li>
 		<li id="item_2">Ir con el dentista</li>
@@ -52,17 +56,11 @@
 	</ol>
 	<button id="eli_ult">Eliminar &Uacute;ltima Tarea</button>
 	<button id="eli_pri">Eliminar Primer Tarea</button></br></br>
-
 	<p>Escribe cualquier n&uacute;mero</p>
-
 	<input type="text" size="1" id="eliminar">
 	<button id="eli_num">Eliminar n&uacute;mero</button></br></br>
-
 	<input type="text" id="añadir">
 	<button id="aña_tare">A&ntilde;adir tarea</button></br></br>
-
 	<button id="limpiar">Eliminar la lista de Tareas?</button>
-	
-
 </body>
 </html>

@@ -1,4 +1,5 @@
 <?php
+// este programa es para : (Aquí escribe cirilo para que sirve)
 	$x = 1;
 	$y = 2;
 	$z = 3;
