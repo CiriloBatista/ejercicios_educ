@@ -41,13 +41,9 @@
 		});
 	</script>
 </head>
-<body>
-	
-<<<<<<< HEAD
+<body>	
 	<!--<p>Esta es tu lista de Tareas!</p>-->
-=======
 	<p>¡Esta es tu lista de Tareas!</p>
->>>>>>> f92d4408a05bb1a4c795dcc7fe9642b076b59584
 	<ol id="lista">
 		<li id="item_1">Estudiar JQuery</li>
 		<li id="item_2">Ir con el dentista</li>
