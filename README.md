@@ -1,3 +1,5 @@
-# ejercicios_educ
-Mi nombre es Cirilo Batista Ochoa :)
-Ejercicios de jquery y php
+# Ejercicios Educ
+1. HTML
+2. php
+3. jQuery
+4. git
